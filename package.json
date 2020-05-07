@@ -4,18 +4,11 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/karunkop/express-server-boiler-plate.git"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/karunkop/express-server-boiler-plate/issues"
-  },
-  "homepage": "https://github.com/karunkop/express-server-boiler-plate#readme",
   "devDependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
